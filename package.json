@@ -1,0 +1,34 @@
+{
+  "name": "my-sanity-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@portabletext/react": "^3.0.4",
+    "@sanity/client": "^6.1.7",
+    "@sanity/eslint-config-studio": "^2.0.4",
+    "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.14.4",
+    "@types/node": "20.4.4",
+    "@types/react": "18.2.16",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.14",
+    "next": "13.4.12",
+    "next-sanity": "^5.1.2",
+    "postcss": "8.4.27",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "sanity": "^3.14.4",
+    "sass": "^1.64.1",
+    "styled-components": "^5.3.9",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.1.6"
+  }
+}
