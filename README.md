@@ -15,3 +15,7 @@ To get started with the project, clone the repository and install the dependenci
 To run the project, you can run the following command:
 
     yarn dev
+
+## Vercel Deployment
+
+[MySanityBlog](https://my-sanity-blog-zeta.vercel.app/)
